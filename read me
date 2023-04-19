@@ -1,0 +1,7 @@
+composer init , inicia composer
+
+crie namespaces e adicione no json ps4.
+
+depois atualize o composer.
+
+composer update

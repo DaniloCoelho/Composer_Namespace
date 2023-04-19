@@ -1,0 +1,17 @@
+{
+    "name": "danal/composer_namespace",
+    "autoload": {
+        "psr-4": {
+            "Danal\\ComposerNamespace\\": "src/",
+            "Classes\\": "classes_a/",
+            "ClassesB\\": "classes_b/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Ferreira",
+            "email": "dan.ali.ferreira@hotmail.com"
+        }
+    ],
+    "require": {}
+}
